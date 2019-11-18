@@ -22,7 +22,7 @@
     "serviceDiscoveryType": false,
     "buildTool": "maven",
     "enableSwaggerCodegen": false,
-    "jwtSecretKey": "ZmZlOThmNzgzYTRhNGE4NjU3NjY2YmViYjhjMTJjY2U2ZjczMzZlM2NmZjEzZWIzNWYyMjI1ODI4YmI1YzM2NTgxNzU1ZDU0YWM4ZWU1NjE4ZDVhYjY3NDkxMTkyYTc3NzYwMTBkOTIzNjMzYzg2ZWIyZmQxMTljOWIzYTVjNmQ=",
+    "jwtSecretKey": "MWZhZGEzMGFlMmY0NzFkOGU5OWVhMjY5MmFiNmRlZjUxYzkyODdkNTExMGNhOTg0ZDVlNDM0OGM5NDcwMjIxZDFkM2ZmYjU5YTUxZjFjYzA4ZWFkZTlkNmE1OTI0MmNkYTRmMjViNzAyOGFlMTliY2ZjZDU1MzNlYThiMGJlYjI=",
     "useSass": true,
     "clientPackageManager": "npm",
     "clientFramework": "angularX",
